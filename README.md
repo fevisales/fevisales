@@ -5,17 +5,20 @@
 </div>
 ---
 
-### 👨‍💻 Sobre mim | About me
-
 <div align="center">
+
+### 👨‍💻 Sobre mim | About me
 
 🇧🇷 Desenvolvedor em formação, atualmente na **Piscine da 42 São Paulo**.  
 🇺🇸 Developer in training, currently at **42 São Paulo Piscine**.
 
 </div>
 
-### 🛠️ Tecnologias | Technologies
+---
 
+<div align="center">
+
+### 🛠️ Tecnologias | Technologies
 <div align="center">
   <img alt="C" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img alt="Shell" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
