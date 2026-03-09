@@ -1,9 +1,9 @@
 <div align="center">
 
 ## Bem-vindo(a) ao perfil do Felipe Sales 😁
-
-</div>
 ---
+</div>
+
 
 <div align="center">
 
@@ -12,9 +12,10 @@
 🇧🇷 Desenvolvedor em formação, atualmente na **Piscine da 42 São Paulo**.  
 🇺🇸 Developer in training, currently at **42 São Paulo Piscine**.
 
+---
 </div>
 
----
+
 
 <div align="center">
 
