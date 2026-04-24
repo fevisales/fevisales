@@ -11,6 +11,7 @@
 ### 🧑 Sobre mim | About me
 
 🇧🇷 Desenvolvedor em formação, estudando ADS e Java/React.
+
 🇺🇸 Developer in training, studying ADS and Java/React.
 
 ---
