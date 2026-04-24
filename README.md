@@ -22,13 +22,7 @@
 ## ⚙️ Tecnologias | Technologies
 
 <div align="center">
-  <img alt="C" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">&nbsp;
-  <img alt="Shell" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">&nbsp;
-  <img alt="Linux" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">&nbsp;
-  <img alt="HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
-  <img alt="CSS3" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
-  <img alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
-  <img alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="C" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">&nbsp;<img alt="Shell" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">&nbsp;<img alt="Linux" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">&nbsp;<img alt="HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;<img alt="CSS3" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;<img alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;<img alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ---
