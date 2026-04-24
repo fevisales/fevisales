@@ -1,32 +1,33 @@
 <div align="center">
 
-## Bem-vindo(a) ao perfil do Felipe Sales 😁
----
-</div>
-
-
-<div align="center">
-
-### 👨‍💻 Sobre mim | About me
-
-🇧🇷 Desenvolvedor em formação, atualmente na **Piscine da 42 São Paulo**.  
-🇺🇸 Developer in training, currently at **42 São Paulo Piscine**.
+## Bem-vindo(a) ao perfil do Felipe Sales 🙂
 
 ---
+
 </div>
 
+<div align="center">
 
+### 🧑 Sobre mim | About me
+
+🇧🇷 Desenvolvedor em formação, estudando ADS e Java/React.
+🇺🇸 Developer in training, studying ADS and Java/React.
+
+---
+
+</div>
 
 <div align="center">
 
-### 🛠️ Tecnologias | Technologies
+## ⚙️ Tecnologias | Technologies
+
 <div align="center">
-  <img alt="C" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="Shell" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img alt="Linux" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img alt="HTML5" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="C" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">&nbsp;
+  <img alt="Shell" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">&nbsp;
+  <img alt="Linux" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">&nbsp;
+  <img alt="HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
+  <img alt="CSS3" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
+  <img alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
   <img alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
@@ -40,7 +41,7 @@
 
 ---
 
-### 📬 Contato | Contact
+### 📱 Contato | Contact
 
 <div align="center">
   <a href="https://instagram.com/fevisales" target="_blank">
